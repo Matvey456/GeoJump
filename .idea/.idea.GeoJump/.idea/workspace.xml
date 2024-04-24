@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7720920-1ff7-49da-b260-5ac5e71a0395" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/1D3DACD0-0CE4-41DC-8C61-D528A2193088/07/2dcb7262/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Sounds.cs" />
+        <option value="$PROJECT_DIR$/Assets/Platform.cs" />
+        <option value="$PROJECT_DIR$/Assets/JumpPads.cs" />
+        <option value="$PROJECT_DIR$/Assets/Portals.cs" />
+        <option value="$PROJECT_DIR$/Assets/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ShipController.cs" />
+        <option value="$PROJECT_DIR$/Assets/StaticHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Portals.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraControl.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2fRVF1Wo6jI2mMzZAaJIc3UaRAs" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7720920-1ff7-49da-b260-5ac5e71a0395" name="Default Changelist" comment="" />
+      <created>1713763785857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713763785857</updated>
+      <workItem from="1713763785859" duration="5292000" />
+      <workItem from="1713770120580" duration="889000" />
+      <workItem from="1713773390140" duration="1204000" />
+      <workItem from="1713775667518" duration="2104000" />
+      <workItem from="1713778427223" duration="1885000" />
+      <workItem from="1713782136379" duration="816000" />
+      <workItem from="1713784969785" duration="151000" />
+      <workItem from="1713795387855" duration="1284000" />
+      <workItem from="1713797797275" duration="4462000" />
+      <workItem from="1713851913393" duration="197000" />
+      <workItem from="1713852140265" duration="47000" />
+      <workItem from="1713877381574" duration="2835000" />
+      <workItem from="1713881827699" duration="1194000" />
+      <workItem from="1713883134167" duration="1488000" />
+      <workItem from="1713885955377" duration="623000" />
+      <workItem from="1713887149911" duration="288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1713798055226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1713798055226" />
+  </component>
+</project>
