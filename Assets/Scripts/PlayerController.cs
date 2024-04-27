@@ -1,4 +1,3 @@
-using System;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -16,7 +15,7 @@ public class PlayerController : Sounds
 
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Space) && _isGrounded)
+        if (Input.GetKeyDown(KeyCode.Space) || Input.GetMouseButtonDown(0) && _isGrounded)
             Jump();
     }
 

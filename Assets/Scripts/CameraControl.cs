@@ -11,7 +11,7 @@ public class CameraControl : MonoBehaviour
     {
         if (StaticHolder.isShip && currentSize < endSize)
         {
-            currentSize = Mathf.Lerp(startSize, endSize, time * Time.deltaTime); 
+            currentSize = Mathf.Lerp(startSize, endSize, 1); 
             camera.orthographicSize = currentSize;
         }
     }
