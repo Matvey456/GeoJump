@@ -1,19 +1,9 @@
 using UnityEngine;
 
-public class Portals : MonoBehaviour
+public abstract class Portals : MonoBehaviour
 {
-    [SerializeField] private Transform spawnShipPoint;
-    [SerializeField] private GameObject ship;
-    [SerializeField] private AudioSource source;
-
-    private void OnTriggerEnter2D(Collider2D other)
+    public virtual void Spawn(GameObject gameMode, Transform spawnGameModePoint)
     {
-        if (other.transform.CompareTag("PinkPortal"))
-        {
-            source.Play();
-            Instantiate(ship, spawnShipPoint.position, Quaternion.identity);
-            Destroy(gameObject);
-            StaticHolder.isShip = true;
-        }
+        Instantiate(gameMode, spawnGameModePoint);
     }
 }

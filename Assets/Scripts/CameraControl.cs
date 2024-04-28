@@ -2,7 +2,7 @@
 
 public class CameraControl : MonoBehaviour
 {
-    [SerializeField] private float startSize, endSize, currentSize, time;
+    [SerializeField] private float startSize, endSize, currentSize;
     [SerializeField] private Camera camera;
 
     private void Update() => CameraSize();

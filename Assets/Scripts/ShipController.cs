@@ -13,7 +13,7 @@ public class ShipController : PlayerController
             Jump();
     }
 
-    public override void Jump()
+    private void Jump()
     {
         _rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
     }

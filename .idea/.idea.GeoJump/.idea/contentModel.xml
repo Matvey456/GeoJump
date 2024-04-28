@@ -10,6 +10,7 @@
         <e p="Scripts" t="Include">
           <e p="CameraControl.cs" t="Include" />
           <e p="JumpPads.cs" t="Include" />
+          <e p="PinkPortal.cs" t="Include" />
           <e p="Platform.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
           <e p="Portals.cs" t="Include" />

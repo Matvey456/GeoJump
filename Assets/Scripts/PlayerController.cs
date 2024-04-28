@@ -19,7 +19,7 @@ public class PlayerController : Sounds
             Jump();
     }
 
-    public virtual void Jump()
+    private void Jump()
     {
         _rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
         _rb.AddTorque(15);
